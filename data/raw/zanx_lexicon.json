@@ -1,0 +1,19 @@
+{
+  "language": "zanX",
+  "description": "Sample lexicon for development and pipeline testing",
+  "words": [
+    {"zanx": "ka", "en": "particle / clause marker", "pos": "particle"},
+    {"zanx": "moro", "en": "hello / greeting", "pos": "interjection"},
+    {"zanx": "tera", "en": "world", "pos": "noun"},
+    {"zanx": "sora", "en": "morning", "pos": "noun"},
+    {"zanx": "yoru", "en": "night", "pos": "noun"},
+    {"zanx": "lin", "en": "good (modifier)", "pos": "adjective"},
+    {"zanx": "danu", "en": "thanks", "pos": "noun"},
+    {"zanx": "mizu", "en": "water", "pos": "noun"},
+    {"zanx": "tabe", "en": "food / eat", "pos": "noun"},
+    {"zanx": "neko", "en": "cat", "pos": "noun"},
+    {"zanx": "inu", "en": "dog", "pos": "noun"},
+    {"zanx": "nem", "en": "sleep", "pos": "verb"},
+    {"zanx": "hash", "en": "run", "pos": "verb"}
+  ]
+}
